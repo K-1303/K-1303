@@ -1,6 +1,6 @@
 # Hey! I am Kavya
 
-- 🧑‍💼 Exploring Data Structure and Algos
+- 🧑‍💼 Exploring AI
 - 🎓 CSE Undergrad 2025
 
 
